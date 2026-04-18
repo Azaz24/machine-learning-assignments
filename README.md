@@ -1,12 +1,16 @@
-# 📊 Machine Learning Assignment
+# 📊 Machine Learning Project
 
-## 📘 Notebook
-The assignment notebook is uploaded in this repository.
+## 🧠 Objective
+Predict whether a customer will make a repeat purchase within 30 days.
 
-## 📸 Output Screenshot
+## 📁 Files
+- Assignment notebook (in assignments folder)
+- Dataset created using pandas
+- Output screenshot
 
-![Model Output](Screenshot.png)
+## 📸 Model Output
 
-## 📁 Files Included
-- assignment.ipynb / ml_workflow_assignment.md
-- screenshot.png
+![Result](Screenshot.png)
+
+## 🚀 Key Insight
+The model achieved high accuracy but dataset is small, so results may not generalize well.
